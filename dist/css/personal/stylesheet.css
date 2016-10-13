@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Arquitecta";
+    src: url("Arquitecta.eot");
+    src: url("Arquitecta.eot?#iefix") format("embedded-opentype"),
+    url("Arquitecta.woff") format("woff"),
+    url("Arquitecta.ttf") format("truetype"),
+    url("Arquitecta.svg#Arquitecta") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "ArquitectaBold";
+  src: url("ArquitectaBold.eot");
+  src: url("ArquitectaBold.eot?#iefix") format("embedded-opentype"),
+  url("ArquitectaBold.woff") format("woff"),
+  url("ArquitectaBold.ttf") format("truetype"),
+  url("ArquitectaBold.svg#ArquitectaBold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "ArquitectaBlack";
+  src: url("ArquitectaBlack.eot");
+  src: url("ArquitectaBlack.eot?#iefix") format("embedded-opentype"),
+  url("ArquitectaBlack.woff") format("woff"),
+  url("ArquitectaBlack.ttf") format("truetype"),
+  url("ArquitectaBlack.svg#ArquitectaBlack") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "AauxProOTUltra";
+  src: url("AauxProOTUltra.eot");
+  src: url("AauxProOTUltra.eot?#iefix") format("embedded-opentype"),
+  url("AauxProOTUltra.woff") format("woff"),
+  url("AauxProOTUltra.ttf") format("truetype"),
+  url("AauxProOTUltra.svg#AauxProOTUltra") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "AauxProOTRegular";
+  src: url("AauxProOTRegular.eot");
+  src: url("AauxProOTRegular.eot?#iefix") format("embedded-opentype"),
+  url("AauxProOTRegular.woff") format("woff"),
+  url("AauxProOTRegular.ttf") format("truetype"),
+  url("AauxProOTRegular.svg#AauxProOTRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "AauxProOTBlack";
+  src: url("AauxProOTBlack.eot");
+  src: url("AauxProOTBlack.eot?#iefix") format("embedded-opentype"),
+  url("AauxProOTBlack.woff") format("woff"),
+  url("AauxProOTBlack.ttf") format("truetype"),
+  url("AauxProOTBlack.svg#AauxProOTBlack") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
